@@ -1,2 +1,2 @@
 # Git JavaScript
-# # Anandu Sudhakaran
+## Anandu Sudhakaran
